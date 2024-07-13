@@ -38,8 +38,8 @@ function activeRandomCube() {
 
         setTimeout(() => {
             randomSpan.classList.remove('active');
-        }, 2000)
-    }, 500)
+        }, 5000)
+    }, 300)
 }
 
 cubes();
